@@ -1,0 +1,8 @@
+streamlit==1.50.0
+langchain==0.3.27
+langchain-openai==0.3.33
+langchain-pinecone==0.2.12
+pinecone==7.3.0
+python-dotenv==1.0.1
+beautifulsoup4==4.14.0
+requests==2.32.3
